@@ -1,0 +1,10 @@
+{
+  "name": "local-media-server",
+  "version": "1.0.0",
+  "description": "LAN Media Server with Login and YouTube Playback",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3"
+  }
+}
